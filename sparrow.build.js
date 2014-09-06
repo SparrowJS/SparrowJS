@@ -1,16 +1,16 @@
 
-function _(id) {
+function get(id) {
 
 	var about = {
 			Version: 0.01, 
 			Name: "SparrowJS",
-			Author: "Garrett Stewart",
+			Author: "RoodyMonster",
 	};
 
 	if (id) {
 
 		if (window === this) {
-			return new _(id);
+			return new get(id);
 		}
 
 		this.e = document.getElementById(id);
@@ -23,7 +23,7 @@ function _(id) {
 	return this;
 }
 
-_.prototype = {
+get.prototype = {
 		hide: function() {
 				this.e.style.display = 'none';
 				return this;
