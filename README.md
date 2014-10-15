@@ -1,10 +1,7 @@
 SparrowJS
 =========
 
-The JavaScript framework for intuitive application-based event handling and easy-to-handle color and font styling.
+The tiny MVC and jQuery equivalent.
 
 
-*******NOTE*********
-  SparrowJS development is not being continued at this time. New projects include:
-  
-  Sparrow Algorithm Library
+SparrowJS 1.4 has finished development. Sparrow 2.0 is the current beta build.
