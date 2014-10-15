@@ -1,7 +1,2 @@
-SparrowJS
-=========
-
-The tiny MVC and jQuery equivalent.
-
-
-SparrowJS 1.4 has finished development. Sparrow 2.0 is the current beta build.
+<h1>SPARROW HAS BEEN DISCONTINUED</h1>
+<p>The developer of Sparrow is hard at work at making a new framework, much more tethered to the frontend side of things.</p>
