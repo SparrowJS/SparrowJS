@@ -1,2 +1,2 @@
-<h1>SPARROW HAS BEEN DISCONTINUED</h1>
-<p>The developer of Sparrow is hard at work at making a new framework, much more tethered to the frontend side of things.</p>
+<h1>SparrowJS Beta</h1>
+<p>SparrowJS has been recontinued and is now in Beta. The framework is being redeveloped. The source code is now proprietary. However, with every new release (x.0.0), the source code for the previous will be released. The current problem is distribution issues. We are hard at work to try and fix the distribution issues to preserve proprietary source code without reobfuscation.</p>
